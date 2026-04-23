@@ -20,7 +20,7 @@ It allows users to register, login, and logout securely.
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/ihtimalhajar2/authentification-system-php
+git clone https://github.com/ihtimalhajar2-max/authentification-system-php
 
 2. Move the project to htdocs (XAMPP)
 
